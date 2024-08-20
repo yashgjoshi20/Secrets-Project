@@ -7,7 +7,7 @@ This project is a template for penpals which is a static website.
 
 ## Snapshots:
 ### 1-
-![](./Screenshots/Screenshot-1.PNG)
+![](.public//Screenshots/Screenshot-1.PNG)
 
 ### 2-
 ![](./Screenshots/Screenshot-2.PNG)

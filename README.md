@@ -10,17 +10,17 @@ This project is a template for penpals which is a static website.
 ![](./public/Screenshots/Screenshot-1.PNG)
 
 ### 2-
-![](./Screenshots/Screenshot-2.PNG)
+![](./public/Screenshots/Screenshot-2.PNG)
 
 ### 3-
-![](./Screenshots/Screenshot-3.PNG)
+![](./public/Screenshots/Screenshot-3.PNG)
 
 ### 3-
-![](./Screenshots/Screenshot-4.PNG)
+![](./public/Screenshots/Screenshot-4.PNG)
 
 ### Links
 
-- Solution URL:  [Solution  URL](https://github.com/yashgjoshi20/Pen-Pals.git)
+- Solution URL:  [Solution  URL](https://github.com/yashgjoshi20/Secrets-Project.git)
 - Live Site URL: [GitHub Pages Live URL](https://yashgjoshi20.github.io/Pen-Pals/)
 
 ### Built with
